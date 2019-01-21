@@ -60,11 +60,12 @@ cat history04-12-17.txt | sort
 GOTO QUIT 
 
 :ONE
-start "emacs" /min emacs.bat C:\Users\Ray\Desktop\MyScript.ahk
+start "emacs" /min emacs.bat C:\Users\Rayni\Desktop\MyScript.ahk
+rem start emacs.bat 
 GOTO END
 
 :END
-cd c:\users\ray
+cd c:\users\rayni
 ECHO Drop to Command Line by Ctrl-C
 ECHO Completed. Bringing up DOS menu again by ...
 pause
