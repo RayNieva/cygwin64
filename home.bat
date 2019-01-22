@@ -1,1 +1,1 @@
-cd c:\users\ray
+cd c:\users\rayni

@@ -1,1 +1,1 @@
-"C:\Program Files (x86)\Flowgorithm\Flowgorithm.exe"
+"C:\Program Files\Flowgorithm\Flowgorithm.exe"

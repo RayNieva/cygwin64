@@ -35,7 +35,7 @@ GOTO QUIT
 :FIVE
 rem call re-image.bat
 rem echo re-image.bat
-start powrshISE86.bat PowerShellTestCommands.ps1  #powershell ide
+start powershell ISE c:\users\rayni\desktop\PowerShellTestCommands.ps1  #powershell ide
 GOTO END
 
 :FOUR
