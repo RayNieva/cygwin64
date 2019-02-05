@@ -1,3 +1,3 @@
-cd c:\users\ray\documents\projects\ruby
+cd c:\users\rayni\documents\projects\ruby
 ls -la | grep opportunities.org
 pause

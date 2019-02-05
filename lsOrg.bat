@@ -1,3 +1,3 @@
-cd c:\users\ray\appdata\roaming\org
+cd c:\users\rayni\appdata\roaming\org
 ls -la | grep opportunities.org
 pause
