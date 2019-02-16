@@ -15,6 +15,7 @@ call c:\users\rayni\documents\Projects\VB\gitBashVB.bat
 cd c:\cygwin64
 echo Returning to cygwin64 executable files
 echo Make sure backup update on Raynieva2 computer using git pull!
+pause .....
 
 
 
