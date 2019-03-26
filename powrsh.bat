@@ -1,1 +1,1 @@
-powershell
+start powershell
